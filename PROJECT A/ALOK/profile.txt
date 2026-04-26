@@ -1,0 +1,7 @@
+ID name :: ALOK
+Name :: Alok Thakur
+DOB :: 11|2|2004
+Gender :: M
+Phone number :: 9876432345
+Country :: Argentina
+Email :: al@gmail.com

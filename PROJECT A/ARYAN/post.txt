@@ -1,0 +1,18 @@
+
+Reciever : SAHIL ->
+I AM FINE. . //end* 
+
+Reciever : SAHIL ->
+WHAT'S ABOUT YOU? //end* 
+
+Reciever : AYUSH ->
+Today is OOPS PROJECT. We are preparing for this. //end* 
+
+Reciever : ALOK ->
+I AM GOING AFTER PRACTICALS. //end* 
+
+Reciever : ALOK ->
+AND WHEN ARE YOU GOING? //end* 
+
+Reciever : BIBHUTI ->
+Sorry, I was busy. Now you can call me if you are free. //end* 

@@ -1,0 +1,7 @@
+ID name :: BIBHUTI
+Name :: Bibhuti Ranjan
+DOB :: 7|11|2004
+Gender :: M
+Phone number :: 34526723489
+Country :: India
+Email :: bi@gmail.com

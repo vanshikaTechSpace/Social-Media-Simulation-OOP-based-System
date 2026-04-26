@@ -1,0 +1,7 @@
+ID name :: AYUSH
+Name :: Ayush Raj
+DOB :: 5|6|2004
+Gender :: M
+Phone number :: 345628322
+Country :: India
+Email :: ay@gmail.com

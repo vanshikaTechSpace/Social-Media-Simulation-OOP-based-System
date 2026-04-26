@@ -1,0 +1,7 @@
+ID name :: ARYAN
+Name :: Aryan
+DOB :: 1|1|2010
+Gender :: M
+Phone number :: 2345670980
+Country :: Bulgaria
+Email :: ar@gmail.com
